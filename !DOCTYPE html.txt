@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aryan Kumar - Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm Aryan Kumar</h1>
+        <p>I'm about 17 years old and I love tech and gaming. In this vast tech world, I strive to learn as much as I can. It's fascinating how technology enables us to connect with people and gain knowledge online. Spending time on my PC allows me to explore various features and functionalities, expanding my understanding of how technology impacts our lives.</p>
+        <h2>About Me</h2>
+        <p>As I said, I love tech, and I'm passionate about learning more about it. Feel free to explore my website to learn more about my interests and projects!</p>
+    </div>
+</body>
+</html>
